@@ -62,8 +62,8 @@ plt.imshow(image_dilate1, 'gray')
 ```
 ## Output:
 
-![output](Screenshot (1).png)
-![output](Screenshot (2).png)
+![output](Screenshot(1).png)
+![output](Screenshot(2).png)
 
 
 ## Result
